@@ -1,0 +1,80 @@
+@charset "UTF-8";
+seletor {
+  propriedade: valor;
+}
+
+h1 {
+  color: brown;
+  background-color: rgb(224, 132, 132);
+  width: 480px;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+.tituloVerde {
+  color: rgb(0, 139, 35);
+}
+
+footer h2 {
+  color: darkolivegreen;
+}
+
+#tituloMarrom {
+  color: rgb(92, 56, 9);
+}
+
+header {
+  border: solid 2px red;
+}
+
+footer {
+  border: solid 2px blue;
+}
+
+main {
+  border: solid 2px violet;
+}
+
+.corRosa {
+  color: pink;
+  background-color: rgb(194, 79, 117);
+  width: 115px;
+}
+
+.corLilás {
+  color: rgb(102, 22, 102);
+  background-color: rgb(143, 54, 171);
+  width: 115px;
+}
+
+.corAmarelo {
+  color: yellow;
+  background-color: rgb(157, 157, 62);
+  width: 140px;
+}
+
+.s1 {
+  width: 200px;
+  border: solid violet 10px;
+  background-color: violet;
+}
+
+.a1 {
+  width: 200px;
+  border: solid violet 10px;
+}
+
+.sorvete {
+  color: rgb(7, 0, 0);
+  background-color: violet;
+  width: 50px;
+  height: 20px;
+}
+
+.acai {
+  color: rgb(7, 0, 0);
+  background-color: violet;
+  width: 35px;
+}/*# sourceMappingURL=style.css.map */
